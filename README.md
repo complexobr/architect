@@ -1,0 +1,2 @@
+# architect
+CodeIgniter architect class
